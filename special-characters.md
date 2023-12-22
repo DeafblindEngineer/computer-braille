@@ -20,14 +20,14 @@ Right Square Bracket&nbsp;&nbsp;&nbsp;&nbsp;]&nbsp;&nbsp;&nbsp;&nbsp;&#x287b;&nb
 Right Curly Bracket (Brace)&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&#x283b;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2-4-5-6  
 Semicolon&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&#x2830;&nbsp;&nbsp;&nbsp;&nbsp;dots 5-6  
 Colon&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-5-6  
-Apostrophe&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;&#x2804;&nbsp;&nbsp;&nbsp;&nbsp;dot 3 
+Apostrophe&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;&#x2804;&nbsp;&nbsp;&nbsp;&nbsp;dot 3  
 At Sign&nbsp;&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;&nbsp;&#x2848;&nbsp;&nbsp;&nbsp;&nbsp;dots 4-7  
 Number Sign (Hash)&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&#x283c;&nbsp;&nbsp;&nbsp;&nbsp;dots 3-4-5-6  
 Tilde&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&#x2818;&nbsp;&nbsp;&nbsp;&nbsp;dots 4-5  
 Backslash&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&#x2873;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2-5-6-7  
 Vertical Bar&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&#x2833;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2-5-6  
 Comma&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&#x2820;&nbsp;&nbsp;&nbsp;&nbsp;dot 6  
-Less-Than Sign&nbsp;&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;&nbsp;&#x2823;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2-6
+Less-Than Sign&nbsp;&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;&nbsp;&#x2823;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2-6  
 Full Stop (Period)&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&#x2828;&nbsp;&nbsp;&nbsp;&nbsp;dots 4-6  
 Greater-Than Sign&nbsp;&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;&nbsp;&#x281c;&nbsp;&nbsp;&nbsp;&nbsp;dots 3-4-5  
 Forward Slash&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&#x280c;&nbsp;&nbsp;&nbsp;&nbsp;dots 3-4  
