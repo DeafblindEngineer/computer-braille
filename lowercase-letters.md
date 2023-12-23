@@ -1,3 +1,5 @@
+### Lowercase Letters
+
 a&nbsp;&nbsp;&nbsp;&nbsp;&#x2801;&nbsp;&nbsp;&nbsp;&nbsp;dot 1  
 b&nbsp;&nbsp;&nbsp;&nbsp;&#x2803;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2  
 c&nbsp;&nbsp;&nbsp;&nbsp;&#x2809;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-4  
