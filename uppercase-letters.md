@@ -1,3 +1,5 @@
+### Uppercase Letters
+
 A&nbsp;&nbsp;&nbsp;&nbsp;&#x2841;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-7  
 B&nbsp;&nbsp;&nbsp;&nbsp;&#x2843;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-2-7  
 C&nbsp;&nbsp;&nbsp;&nbsp;&#x2849;&nbsp;&nbsp;&nbsp;&nbsp;dots 1-4-7  
