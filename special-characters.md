@@ -1,3 +1,5 @@
+### Special Characters
+
 Grave Accent&nbsp;&nbsp;&nbsp;&nbsp;`&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&nbsp;&nbsp;&nbsp;&nbsp;dot 4  
 Negation Symbol&nbsp;&nbsp;&nbsp;&nbsp;¬&nbsp;&nbsp;&nbsp;&nbsp;&#x2872;&nbsp;&nbsp;&nbsp;&nbsp;dots  2-5-6-7  
 Exclamation Mark&nbsp;&nbsp;&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;&nbsp;&#x282e;&nbsp;&nbsp;&nbsp;&nbsp;dots 2-3-4-6  
